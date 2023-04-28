@@ -1,0 +1,1 @@
+Programa que recolecta y guarda información en mercado libre acerca de procesadores en un archivo csv. En el código hay mas detalles de cómo fue realizado.
